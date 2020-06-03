@@ -1,0 +1,8 @@
+{
+  "phabricator.uri" : "https://www.forudev.com/",
+  "arcanist_configuration": "ForuConfiguration",
+  "arc.land.onto.default": "develop",
+  "load": [
+        ".foru-workflow"
+   ]
+}
